@@ -1,0 +1,8 @@
+int age := 35;
+int MyVar := age;
+int MyVar_2 := age*5; /*This is comment*/
+char[] name := "james" ;
+WHILE(1){
+age--;
+break; } 
+int a := 73848483948439;
